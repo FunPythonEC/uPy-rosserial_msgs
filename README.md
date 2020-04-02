@@ -1,2 +1,2 @@
 # uPy-rosserial_msgs
-This is a package which has the rosserial_msgs directory, needed in order to use rosserial.
+Here in `src` there is a directory which has the `TopicInfo` class for uPy, this must be included in order to establish connection with rosserial.
